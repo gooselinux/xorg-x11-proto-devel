@@ -261,6 +261,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/pkgconfig/xproxymngproto.pc
 
 %changelog
+* Mon Jul 11 2011 Mike Adams <shalkie@gooseproject.org> 7.4-35
+- Rebuild for GoOSe Linux 6
+
 * Wed Apr 21 2010 Dave Airlie <airlied@redhat.com> 7.4-35
 - dri2proto 2.3
 - glproto 1.4.11
